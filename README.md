@@ -6,12 +6,6 @@
 
 ## Prazer sou o Kauan, estudante de engenharia da computação e apaixonado pela area de desenvolvimento !
 
-<div>
-  <a href="https://github.com/Kauanlear12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauanlear12&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanlear12&layout=compact&theme=radical">
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
